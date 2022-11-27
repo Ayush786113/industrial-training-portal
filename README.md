@@ -36,5 +36,5 @@ The app is published in play store as 'Industrial Training Portal' and is locate
 - Reading from database through API call
 ## Author
 
-- [Ayush786113](https://www.github.com/ayush786113)
+- [Ayush Ghosal](https://www.github.com/ayush786113)
 
